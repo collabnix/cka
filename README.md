@@ -1,1 +1,1 @@
-# CKA - KUbernetes Certified Administrator Exam Preparation
+# CKA - Kubernetes Certified Administrator Exam Preparation
